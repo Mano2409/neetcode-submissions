@@ -13,7 +13,7 @@ class Solution:
                 return mid
 
             # Check if left half is sorted
-            if nums[low] <= nums[mid]:
+            elif nums[low] <= nums[mid]:
                 # If target lies in left half
                 if nums[low] <= target < nums[mid]:
                     high = mid - 1
