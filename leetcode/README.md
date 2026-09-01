@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0069-sqrtx) |
 ## Newton's Method
 |  |
