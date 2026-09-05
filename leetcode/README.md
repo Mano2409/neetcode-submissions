@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0162-find-peak-element) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2000-minimum-speed-to-arrive-on-time) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0162-find-peak-element) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2000-minimum-speed-to-arrive-on-time) |
 ## Math
 |  |
 | ------- |
