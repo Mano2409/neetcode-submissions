@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2000-minimum-speed-to-arrive-on-time) |
+| [2737-row-with-maximum-ones](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
