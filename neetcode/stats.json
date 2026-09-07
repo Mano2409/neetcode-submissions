@@ -1,14 +1,18 @@
 {
   "neetcode": {
-    "solved": 1,
     "easy": 1,
-    "medium": 0,
     "hard": 0,
+    "medium": 1,
     "shas": {
       "climbing-stairs": {
-        "difficulty": "Easy",
-        "date": "2026-09-01T16:45:42.796Z"
+        "date": "2026-09-01T16:45:42.796Z",
+        "difficulty": "Easy"
+      },
+      "combination-target-sum-ii": {
+        "difficulty": "Medium",
+        "date": "2026-09-07T13:37:10.417Z"
       }
-    }
+    },
+    "solved": 2
   }
 }
