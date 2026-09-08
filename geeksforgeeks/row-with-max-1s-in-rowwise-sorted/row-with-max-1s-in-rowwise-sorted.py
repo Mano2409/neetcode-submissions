@@ -1,2 +1,3 @@
-        index=-1
+        return ans
+        
 
