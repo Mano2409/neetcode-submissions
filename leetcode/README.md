@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0410-split-array-largest-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0041-first-missing-positive) |
 | [0560-subarray-sum-equals-k](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 ## String
 |  |
