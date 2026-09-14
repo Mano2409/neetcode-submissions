@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
+| [1524-string-matching-in-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2048-build-array-from-permutation) |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1524-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
