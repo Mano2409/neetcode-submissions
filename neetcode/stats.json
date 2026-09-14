@@ -1,6 +1,6 @@
 {
   "neetcode": {
-    "easy": 2,
+    "easy": 3,
     "hard": 0,
     "medium": 2,
     "shas": {
@@ -17,10 +17,14 @@
         "difficulty": "Medium"
       },
       "string-matching-in-an-array": {
+        "date": "2026-09-14T14:43:56.612Z",
+        "difficulty": "Easy"
+      },
+      "remove-element": {
         "difficulty": "Easy",
-        "date": "2026-09-14T14:43:56.612Z"
+        "date": "2026-09-14T15:18:08.627Z"
       }
     },
-    "solved": 4
+    "solved": 5
   }
 }
