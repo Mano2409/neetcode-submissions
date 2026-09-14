@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0410-split-array-largest-sum) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1524-string-matching-in-an-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
 | ------- |
