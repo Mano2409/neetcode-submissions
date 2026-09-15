@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
+| [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2048-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
@@ -86,10 +88,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 | [1524-string-matching-in-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1524-string-matching-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
