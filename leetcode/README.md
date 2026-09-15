@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2048-build-array-from-permutation) |
+| [2551-apply-operations-to-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
 | [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
+| [2551-apply-operations-to-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2048-build-array-from-permutation) |
+| [2551-apply-operations-to-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
