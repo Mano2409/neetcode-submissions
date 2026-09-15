@@ -6,7 +6,6 @@ class Solution:
         left2 = len(t) - 1
         
         while left >= 0 or left2 >= 0:
-            # skip logic for s
             skip = 0
             while left >= 0:
                 if s[left] == '#':
@@ -18,7 +17,6 @@ class Solution:
                 else:
                     break
             
-            # skip logic for t
             skip2 = 0
             while left2 >= 0:
                 if t[left2] == '#':
@@ -30,12 +28,10 @@ class Solution:
                 else:
                     break
             
-            # now compare landed positions
             if left >= 0 and left2 >= 0:
                 if s[left] != t[left2]:
                     return False
             elif left >= 0 or left2 >= 0:
-                # one string still has a real char, other ran out
                 return False
             
             left -= 1
