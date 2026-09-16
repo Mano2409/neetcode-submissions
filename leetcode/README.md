@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
