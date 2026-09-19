@@ -1,7 +1,7 @@
 {
   "neetcode": {
     "easy": 5,
-    "hard": 1,
+    "hard": 2,
     "medium": 8,
     "shas": {
       "add-two-numbers": {
@@ -36,6 +36,10 @@
         "date": "2026-09-14T15:18:08.627Z",
         "difficulty": "Easy"
       },
+      "remove-linked-list-elements": {
+        "date": "2026-09-19T08:00:37.444Z",
+        "difficulty": "Easy"
+      },
       "remove-node-from-end-of-linked-list": {
         "date": "2026-09-16T20:28:31.820Z",
         "difficulty": "Medium"
@@ -56,11 +60,11 @@
         "date": "2026-09-14T14:43:56.612Z",
         "difficulty": "Easy"
       },
-      "remove-linked-list-elements": {
-        "difficulty": "Easy",
-        "date": "2026-09-19T08:00:37.444Z"
+      "split-array-largest-sum": {
+        "difficulty": "Hard",
+        "date": "2026-09-19T08:02:25.492Z"
       }
     },
-    "solved": 14
+    "solved": 15
   }
 }
