@@ -2,7 +2,7 @@
   "neetcode": {
     "easy": 4,
     "hard": 1,
-    "medium": 7,
+    "medium": 8,
     "shas": {
       "append-characters-to-string-to-make-subsequence": {
         "date": "2026-09-14T20:44:14.114Z",
@@ -19,6 +19,10 @@
       "design-hashmap": {
         "date": "2026-09-14T21:15:30.161Z",
         "difficulty": "Easy"
+      },
+      "design-linked-list": {
+        "date": "2026-09-18T19:17:11.879Z",
+        "difficulty": "Medium"
       },
       "first-missing-positive": {
         "date": "2026-09-14T21:30:52.263Z",
@@ -48,11 +52,11 @@
         "date": "2026-09-14T14:43:56.612Z",
         "difficulty": "Easy"
       },
-      "design-linked-list": {
+      "add-two-numbers": {
         "difficulty": "Medium",
-        "date": "2026-09-18T19:17:11.879Z"
+        "date": "2026-09-19T06:13:18.664Z"
       }
     },
-    "solved": 12
+    "solved": 13
   }
 }
