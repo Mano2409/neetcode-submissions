@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0838-design-linked-list) |
 ## Design
 |  |
