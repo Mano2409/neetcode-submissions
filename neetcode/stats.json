@@ -1,7 +1,7 @@
 {
   "neetcode": {
     "easy": 5,
-    "hard": 2,
+    "hard": 3,
     "medium": 9,
     "shas": {
       "add-two-numbers": {
@@ -65,10 +65,14 @@
         "difficulty": "Easy"
       },
       "time-based-key-value-store": {
-        "difficulty": "Medium",
-        "date": "2026-09-19T08:04:35.163Z"
+        "date": "2026-09-19T08:04:35.163Z",
+        "difficulty": "Medium"
+      },
+      "find-in-mountain-array": {
+        "difficulty": "Hard",
+        "date": "2026-09-19T08:05:18.022Z"
       }
     },
-    "solved": 16
+    "solved": 17
   }
 }
