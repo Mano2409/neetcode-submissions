@@ -1,9 +1,13 @@
 {
   "neetcode": {
-    "easy": 4,
+    "easy": 5,
     "hard": 1,
     "medium": 8,
     "shas": {
+      "add-two-numbers": {
+        "date": "2026-09-19T06:13:18.664Z",
+        "difficulty": "Medium"
+      },
       "append-characters-to-string-to-make-subsequence": {
         "date": "2026-09-14T20:44:14.114Z",
         "difficulty": "Medium"
@@ -52,11 +56,11 @@
         "date": "2026-09-14T14:43:56.612Z",
         "difficulty": "Easy"
       },
-      "add-two-numbers": {
-        "difficulty": "Medium",
-        "date": "2026-09-19T06:13:18.664Z"
+      "remove-linked-list-elements": {
+        "difficulty": "Easy",
+        "date": "2026-09-19T08:00:37.444Z"
       }
     },
-    "solved": 13
+    "solved": 14
   }
 }
