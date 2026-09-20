@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0838-design-linked-list) |
