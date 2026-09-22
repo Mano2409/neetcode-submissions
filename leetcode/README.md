@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
 | [0414-third-maximum-number](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1675-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## Prefix Sum
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0838-design-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
 <!---LeetCode Topics End-->
