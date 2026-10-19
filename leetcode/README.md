@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0874-backspace-string-compare) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0328-odd-even-linked-list) |
