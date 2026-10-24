@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0838-design-linked-list) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
