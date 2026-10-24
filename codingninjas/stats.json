@@ -1,7 +1,7 @@
 {
   "codingninjas": {
-    "solved": 1,
-    "easy": 1,
+    "solved": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -12,6 +12,13 @@
         "language": "Python3",
         "submissionId": 293032849,
         "date": "2026-10-24T07:19:36.387Z"
+      },
+      "insert-at-end-of-doubly-linked-list_8160464": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Python3",
+        "submissionId": 293033545,
+        "date": "2026-10-24T07:26:21.838Z"
       }
     }
   }
