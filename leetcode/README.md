@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0206-reverse-linked-list) |
@@ -129,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
