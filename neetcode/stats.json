@@ -1,6 +1,6 @@
 {
   "neetcode": {
-    "easy": 7,
+    "easy": 8,
     "hard": 3,
     "medium": 9,
     "shas": {
@@ -35,6 +35,10 @@
       "first-missing-positive": {
         "date": "2026-09-14T21:30:52.263Z",
         "difficulty": "Hard"
+      },
+      "intersection-of-two-linked-lists": {
+        "date": "2026-09-20T13:07:13.548Z",
+        "difficulty": "Easy"
       },
       "remove-element": {
         "date": "2026-09-14T15:18:08.627Z",
@@ -76,11 +80,11 @@
         "date": "2026-09-19T08:04:35.163Z",
         "difficulty": "Medium"
       },
-      "intersection-of-two-linked-lists": {
+      "middle-of-the-linked-list": {
         "difficulty": "Easy",
-        "date": "2026-09-20T13:07:13.548Z"
+        "date": "2026-11-24T12:32:51.276Z"
       }
     },
-    "solved": 19
+    "solved": 20
   }
 }
