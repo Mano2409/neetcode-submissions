@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0455-assign-cookies) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 ## String
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0234-palindrome-linked-list) |
@@ -148,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mano2409/neetcode-submissions/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
