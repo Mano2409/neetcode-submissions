@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "CCLEARN - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T08:10:46.277Z",
+        "difficulty": "Difficulty:287",
+        "displayText": "Difficulty:287",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "PRACLIST - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T08:09:16.808Z",
@@ -19,18 +28,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "CCLEARN - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:287",
+      "RIP2000 - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:284",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:287",
-        "date": "2026-11-27T08:10:46.277Z"
+        "displayText": "Difficulty:284",
+        "date": "2026-11-27T08:15:18.621Z"
       }
     },
-    "solved": 3,
-    "star1": 3,
+    "solved": 4,
+    "star1": 4,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
