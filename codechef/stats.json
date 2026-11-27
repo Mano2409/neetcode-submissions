@@ -37,6 +37,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "PUZHUNT - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T08:17:39.611Z",
+        "difficulty": "Difficulty:279",
+        "displayText": "Difficulty:279",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "RIP2000 - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T08:15:18.621Z",
@@ -55,18 +64,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "PUZHUNT - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:279",
+      "YOGADAY - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:264",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:279",
-        "date": "2026-11-27T08:17:39.611Z"
+        "displayText": "Difficulty:264",
+        "date": "2026-11-27T08:57:22.560Z"
       }
     },
-    "solved": 7,
-    "star1": 7,
+    "solved": 8,
+    "star1": 8,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
