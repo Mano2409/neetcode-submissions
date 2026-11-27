@@ -10,6 +10,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "CS2023_GIFT - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T10:51:06.874Z",
+        "difficulty": "Difficulty:390",
+        "displayText": "Difficulty:390",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "CUTESTR - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T09:16:03.375Z",
@@ -136,18 +145,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "CS2023_GIFT - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:390",
+      "AIRINDEX - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:347",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:390",
-        "date": "2026-11-27T10:51:06.874Z"
+        "displayText": "Difficulty:347",
+        "date": "2026-11-27T10:52:34.470Z"
       }
     },
-    "solved": 16,
-    "star1": 16,
+    "solved": 17,
+    "star1": 17,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
