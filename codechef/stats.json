@@ -19,6 +19,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "NEWSPAPER - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T08:16:52.354Z",
+        "difficulty": "Difficulty:272",
+        "displayText": "Difficulty:272",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "PRACLIST - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T08:09:16.808Z",
@@ -46,18 +55,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "NEWSPAPER - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:272",
+      "PUZHUNT - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:279",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:272",
-        "date": "2026-11-27T08:16:52.354Z"
+        "displayText": "Difficulty:279",
+        "date": "2026-11-27T08:17:39.611Z"
       }
     },
-    "solved": 6,
-    "star1": 6,
+    "solved": 7,
+    "star1": 7,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
