@@ -10,6 +10,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "EMAILREM - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T08:16:00.686Z",
+        "difficulty": "Difficulty:379",
+        "displayText": "Difficulty:379",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "PRACLIST - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T08:09:16.808Z",
@@ -37,18 +46,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "EMAILREM - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:379",
+      "NEWSPAPER - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:272",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:379",
-        "date": "2026-11-27T08:16:00.686Z"
+        "displayText": "Difficulty:272",
+        "date": "2026-11-27T08:16:52.354Z"
       }
     },
-    "solved": 5,
-    "star1": 5,
+    "solved": 6,
+    "star1": 6,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
