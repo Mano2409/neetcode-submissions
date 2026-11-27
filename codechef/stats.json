@@ -46,6 +46,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "HS08TEST - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T10:48:35.351Z",
+        "difficulty": "Difficulty:460",
+        "displayText": "Difficulty:460",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "JUSTICE - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T08:57:59.088Z",
@@ -118,18 +127,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "HS08TEST - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:460",
+      "NEWCC - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:354",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:460",
-        "date": "2026-11-27T10:48:35.351Z"
+        "displayText": "Difficulty:354",
+        "date": "2026-11-27T10:49:28.672Z"
       }
     },
-    "solved": 14,
-    "star1": 14,
+    "solved": 15,
+    "star1": 15,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
