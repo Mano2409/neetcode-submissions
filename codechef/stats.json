@@ -1,20 +1,29 @@
 {
   "codechef": {
-    "solved": 1,
-    "star1": 1,
-    "star2_3": 0,
-    "star4_5": 0,
-    "star6_7": 0,
     "shas": {
       "START01 - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T08:07:05.373Z",
         "difficulty": "Difficulty:420",
+        "displayText": "Difficulty:420",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
+      "PRACLIST - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:264",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:420",
-        "date": "2026-11-27T08:07:05.373Z"
+        "displayText": "Difficulty:264",
+        "date": "2026-11-27T08:09:16.808Z"
       }
-    }
+    },
+    "solved": 2,
+    "star1": 2,
+    "star2_3": 0,
+    "star4_5": 0,
+    "star6_7": 0
   }
 }
