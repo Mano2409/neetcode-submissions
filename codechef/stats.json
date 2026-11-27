@@ -55,6 +55,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "MARKSTW - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-11-27T10:47:18.298Z",
+        "difficulty": "Difficulty:362",
+        "displayText": "Difficulty:362",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "NEWSPAPER - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-11-27T08:16:52.354Z",
@@ -109,18 +118,18 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
-      "MARKSTW - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:362",
+      "HS08TEST - Welcome to the CodeChef AI Tutor": {
+        "difficulty": "Difficulty:460",
         "rating": null,
         "stars": "1★",
         "tier": "Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:362",
-        "date": "2026-11-27T10:47:18.298Z"
+        "displayText": "Difficulty:460",
+        "date": "2026-11-27T10:48:35.351Z"
       }
     },
-    "solved": 13,
-    "star1": 13,
+    "solved": 14,
+    "star1": 14,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
